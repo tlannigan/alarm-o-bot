@@ -1,0 +1,24 @@
+{
+    "name": "alarm-o-bot",
+    "version": "1.0.0",
+    "description": "Scheduling bot for Discord",
+    "main": "index.js",
+    "dependencies": {
+        "discord.js": "^12.0.2",
+        "dotenv": "^8.2.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tlannigan/alarm-o-bot.git"
+    },
+    "author": "tlannigan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tlannigan/alarm-o-bot/issues"
+    },
+    "homepage": "https://github.com/tlannigan/alarm-o-bot#readme"
+}
